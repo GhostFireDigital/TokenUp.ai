@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/4368b654-5435-4a1c-a8b7-3b3269037490)
+![image](https://github.com/user-attachments/assets/64bbfe6c-2d5e-47e0-bb55-c286e350688b)
+
+
+
 
 # TokenUp.ai
 
