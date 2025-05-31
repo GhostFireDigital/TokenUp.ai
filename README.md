@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/64bbfe6c-2d5e-47e0-bb55-c286e350688b)
-
-
-
+<p align="center">
+  <img src="images/tokenup-logo.png" alt="TokenUp.ai Logo" width="300"/>
+</p>
 
 # TokenUp.ai
 
