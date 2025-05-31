@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4368b654-5435-4a1c-a8b7-3b3269037490)
+
 # TokenUp.ai
 
 > **Token infrastructure for the next generation of Web3 builders.**
