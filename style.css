@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000; /* Matte black background */
+  color: #F2F2F2;
+  font-family: 'Exo 2', sans-serif;
+  padding: 3rem 1rem;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.main-logo {
+  width: 280px;
+  margin: 2rem auto;
+  display: block;
+}
+
+.tagline {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  color: #AAAAAA;
+}
+
+.intro h2 {
+  font-size: 1.5rem;
+  color: #FFD700; /* Gold for intro header */
+  margin-bottom: 0.5rem;
+}
+
+.intro p {
+  font-size: 1rem;
+  color: #EAEAEA;
+  margin-bottom: 2rem;
+}
+
+.modules h3 {
+  font-size: 1.3rem;
+  color: #F2C94C; /* Slightly deeper gold */
+  margin-bottom: 1rem;
+}
+
+.modules ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.modules li {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+  color: #D0D0D0;
+}
+
+.cta-button {
+  display: inline-block;
+  background: linear-gradient(90deg, #FFD700, #B8860B); /* Bold gold */
+  color: black;
+  padding: 0.8rem 1.6rem;
+  border-radius: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  margin-top: 2rem;
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.3);
+}
+
+.cta-button:hover {
+  background: linear-gradient(90deg, #FFE066, #C0A000);
+}
+
+footer {
+  margin-top: 4rem;
+  font-size: 0.8rem;
+  color: #888;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer img {
+  width: 40px;
+  margin-bottom: 0.4rem;
+}
